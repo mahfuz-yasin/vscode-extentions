@@ -84,12 +84,12 @@
 
 ##  ইনস্টল করার দ্রুত কমান্ড (Command Palette থেকে)
 
-ext install ritwickdey.LiveServer
-ext install esbenp.prettier-vscode
-ext install dsznajder.es7-react-js-snippets
-ext install ms-python.python
-ext install golang.go
-ext install ms-vscode.cpptools
-ext install christian-kohler.path-intellisense
-ext install dbaeumer.vscode-eslint
-ext install GitHub.vscode-pull-request-github
+-   ext install ritwickdey.LiveServer
+-   ext install esbenp.prettier-vscode
+-   ext install dsznajder.es7-react-js-snippets
+-   ext install ms-python.python
+-   ext install golang.go
+-   ext install ms-vscode.cpptools
+-   ext install christian-kohler.path-intellisense
+-   ext install dbaeumer.vscode-eslint
+-   ext install GitHub.vscode-pull-request-github
